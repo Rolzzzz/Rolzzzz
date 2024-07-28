@@ -28,6 +28,10 @@ title="Python" alt="Spring" width="40" height="40"/>&nbsp;
 
 ### :hammer_and_wrench: Tools :
 
+<div id="badges" align="center"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-Qualys.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 
 
 <p align="center">
