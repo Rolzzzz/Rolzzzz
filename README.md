@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzV2MWwwdHNmYjlhaDZwaHh3ejJzbmljZHczOTR5dDVrcHY5NG8zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif](https://giphy.com/stickers/markets-informa-futurecom-Nn97Knvcol0rENwFk5)" width="600"/>
+  <img src="" width="600"/>
 </div>
 ## Hi there 👋
 
