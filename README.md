@@ -32,6 +32,8 @@ title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" 
 title="DOCKER" **alt="Docker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/1280px-Logo_of_PortSwigger.svg.png" 
+title="Burp" **alt="Burp" width="40" height="40"/>
 </div>
 
 
