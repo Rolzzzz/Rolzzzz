@@ -8,6 +8,8 @@
 <!--My link to LINKEDIN -->
 <div id="badges" align="center">
   <a href="My link hoes here">
+    <div class="flip-box-inner">
+    <div class="flip-box-front">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="70" height="70" alt="LinkedIn Badge"/>
   </a>
 </div>
