@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="My link hoes here">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="70" height="70" alt="LinkedIn Badge"/>
   </a>
 </div>
 
