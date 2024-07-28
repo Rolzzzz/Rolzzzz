@@ -11,9 +11,11 @@
   </a>
 </div>
 
-## Hi there 👋
+## Hello 👋, I'm R0lz
 ---
+I am Cybersecurity Analyst/Computer Science Greaduate.I'm aiming to deepen my understanding of cybersecurity and cryptography through hands-on projects and practical experience. I'm particularly interested in application development with a strong focus on security.Additionally, I'm delving into the use of various cyber tools.
 
+Does this capture what you wanted to convey?
 ### :hammer_and_wrench: Languages:
 <div id="badges" align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
