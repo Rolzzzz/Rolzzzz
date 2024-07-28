@@ -33,7 +33,7 @@ title="Python" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" 
 title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" 
-title="Vim" **alt="Vim" width="40" height="40"/>
+title="Vim" **alt="Vim" width="50" height="50"/>
 </div>
 
 
