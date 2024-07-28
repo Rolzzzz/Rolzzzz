@@ -32,9 +32,10 @@ title="Python" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo-Qualys.svg/1024px-Logo-Qualys.svg.png" title="Qualys" **alt="Qualys" width="100" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" 
 title="Vim" **alt="Vim" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="100" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" 
 title="DOCKER" **alt="Docker" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="100" height="30"/>
+  
   
 </div>
 
