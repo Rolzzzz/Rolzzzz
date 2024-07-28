@@ -1,6 +1,6 @@
 <!--add animation using share link from ghiphy-->
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVhdG1kdWk4eGpkMTJ2a2J4b2lqN3ozbWk4b2dhNnp3MXVyeTR5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MFabj1E9mgUsqwVWHu/giphy-downsized-large.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdqcmNnYjFwbjU0ZTRlMDliODd2aXl1bTR5YWdwZHR4MGd4ODl1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT4uQF7h39mlsF5czK/giphy.gif" width="300"/>
 </div>
 
 ## Hello 👋, I'm R0lz
