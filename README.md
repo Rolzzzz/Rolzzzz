@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/harold-silva-0a3799154">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
