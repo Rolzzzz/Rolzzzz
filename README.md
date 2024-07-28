@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script src="/assets/js/dist/animate.js"></script>
+<script>
+    var animate = new Animate({        
+        target: '[data-animate]',
+        animatedClass: 'js-animated',
+        offset: [0.5, 0.5],
+        delay: 0,
+        remove: true,
+        scrolled: false,
+        reverse: false,
+        onLoad: true,
+        onScroll: true,
+        onResize: false,
+        disableFilter: false,
+        callbackOnInit: function() {},
+        callbackOnInView: function(el) {},
+        callbackOnAnimate: function(el) {},
+    });
+    animate.init();
+</script>
