@@ -49,11 +49,10 @@ title="Burp" **alt="Burp" width="180" height="40"/>
   </a>
 </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently learning all cyber and looking fro fun prejects to learn 
-- 🌱 I’m currently learning how to uset Github :)
-- 👯 I’m looking to collaborate AI Projects
 
+- 🔭 PROJECTS:
+  Developed a college game project, Justice Unity, using C++ and the SFML framework.
+  
 - ⚡ Fun fact: I love retro games
 -->
